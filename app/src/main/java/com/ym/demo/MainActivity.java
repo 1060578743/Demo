@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity implements Runnable{
         setContentView(R.layout.activity_main);
         final Thread thread = new Thread(this);
         thread.start();
-
+        //wocao
 
     }
     @Override
